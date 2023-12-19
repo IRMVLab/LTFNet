@@ -1,0 +1,8 @@
+frankfurt_000000_007365_leftImg8bit.png
+frankfurt_000001_042733_leftImg8bit.png
+frankfurt_000001_049770_leftImg8bit.png
+frankfurt_000001_075296_leftImg8bit.png
+lindau_000001_000019_leftImg8bit.png
+lindau_000013_000019_leftImg8bit.png
+munster_000029_000019_leftImg8bit.png
+munster_000156_000019_leftImg8bit.png
